@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: LGMAC
+pool: LGMAC
 strategy:
   matrix:
     Python27:
