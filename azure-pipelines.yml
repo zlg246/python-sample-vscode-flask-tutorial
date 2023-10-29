@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: LG MAC
 strategy:
   matrix:
     Python27:
